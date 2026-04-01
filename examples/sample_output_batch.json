@@ -1,0 +1,61 @@
+{
+  "results": [
+    {
+      "url": "https://www.youtube.com/shorts/_cPqnVahtPk",
+      "tags": [
+        "tie tying",
+        "necktie",
+        "fashion tutorial",
+        "menswear",
+        "formal attire",
+        "style guide",
+        "how-to",
+        "clothing accessory",
+        "professional wear"
+      ],
+      "category": "education",
+      "brand_safe": true,
+      "confidence": 0.949999988079071,
+      "summary": "A person demonstrates the step-by-step process of tying a necktie, possibly a complex knot or involving multiple ties, with instructional graphics overlaying the video.",
+      "error": ""
+    },
+    {
+      "url": "https://www.youtube.com/shorts/UHrXs53WaD0",
+      "tags": [
+        "pokemon",
+        "trading cards",
+        "card opening",
+        "tcg",
+        "collectibles",
+        "unified minds",
+        "pokemon gx",
+        "hobby",
+        "unboxing"
+      ],
+      "category": "gaming",
+      "brand_safe": true,
+      "confidence": 0.949999988079071,
+      "summary": "A person opens Pokemon trading card packs from the Unified Minds set, showcasing various collectible cards.",
+      "error": ""
+    },
+    {
+      "url": "https://www.youtube.com/shorts/VxblJHq3QW4",
+      "tags": [
+        "habit tracking",
+        "bullet journal",
+        "productivity",
+        "planning",
+        "organization",
+        "how-to",
+        "daily habits",
+        "journaling",
+        "personal growth"
+      ],
+      "category": "education",
+      "brand_safe": true,
+      "confidence": 0.9800000190734863,
+      "summary": "This video demonstrates how to set up and use a personal habit tracker and bullet journal for organizing daily tasks and tracking memorable moments.",
+      "error": ""
+    }
+  ]
+}
