@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+package vidtag;
+
+service VidTagService {
+  rpc AnalyzeBatch (BatchRequest) returns (BatchResponse);
+}
+
+message BatchRequest {
+  repeated string urls = 1;
+}
+
+message VideoResult {
+  string url = 1;
+  repeated string tags = 2;
+  string category = 3;
+  bool brand_safe = 4;
+  float confidence = 5;
+  string summary = 6;
+  string error = 7;  // Set if this URL failed; leave empty on success
+}
+
+message BatchResponse {
+  repeated VideoResult results = 1;
+}
