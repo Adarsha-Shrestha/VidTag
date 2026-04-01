@@ -1,0 +1,12 @@
+fastapi 
+uvicorn 
+google-generativeai 
+yt-dlp 
+opencv-python            
+Pillow 
+grpcio 
+grpcio-tools 
+strawberry-graphql[fastapi] 
+python-dotenv 
+pydantic 
+slowapi
